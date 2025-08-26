@@ -21,7 +21,7 @@ python-basic-to-numpy/
  └── 20넘파이사용하기.py               # NumPy 배열/통계/인덱싱:contentReference[oaicite:18]{index=18}
 
 
-**# Python Basic to NumPy 🐍
+# Python Basic to NumPy 🐍
 
 ## 📌 개요
 이 저장소는 파이썬 기초 문법부터 시작하여, 자료구조, 함수, 파일 입출력, GUI 프로그래밍,  
@@ -61,4 +61,4 @@ python-basic-to-numpy/
 ## 🚀 다음 목표
 - Pandas, Matplotlib을 활용한 EDA 실습
 - Kaggle 데이터셋을 이용한 분석 프로젝트 확장
-**
+
